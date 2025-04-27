@@ -1,1 +1,1 @@
-Link repo: https://gitlab.com/khanghv-the-programmer/MSE_DDM501
+Link repo: https://github.com/minhchanh2002/mlflow-assignment
