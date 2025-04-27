@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745780113321
+current_stage: Production
+description: ''
+last_updated_timestamp: 1745780158931
+name: Best_Model
+run_id: 33acdfb52c2b43fbad80fb1e7552459e
+run_link: ''
+source: file:///d:/Thac%20Si/April%20%28MLOp%29/mlruns/834777770382578709/33acdfb52c2b43fbad80fb1e7552459e/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///d:/Thac%20Si/April%20%28MLOp%29/mlruns/834777770382578709/33acdfb52c2b43fbad80fb1e7552459e/artifacts/model
+user_id: null
+version: 2

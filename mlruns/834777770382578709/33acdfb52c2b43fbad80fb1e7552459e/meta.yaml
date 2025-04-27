@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Thac%20Si/April%20%28MLOp%29/mlruns/834777770382578709/33acdfb52c2b43fbad80fb1e7552459e/artifacts
+end_time: 1745779099798
+entry_point_name: ''
+experiment_id: '834777770382578709'
+lifecycle_stage: active
+run_id: 33acdfb52c2b43fbad80fb1e7552459e
+run_name: CatBoost
+run_uuid: 33acdfb52c2b43fbad80fb1e7552459e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745779090883
+status: 3
+tags: []
+user_id: ACER

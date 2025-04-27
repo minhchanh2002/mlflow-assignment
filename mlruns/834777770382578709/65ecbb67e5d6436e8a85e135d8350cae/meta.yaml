@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Thac%20Si/April%20%28MLOp%29/mlruns/834777770382578709/65ecbb67e5d6436e8a85e135d8350cae/artifacts
+deleted_time: 1745783027632
+end_time: 1745772578131
+entry_point_name: ''
+experiment_id: '834777770382578709'
+lifecycle_stage: deleted
+run_id: 65ecbb67e5d6436e8a85e135d8350cae
+run_name: XGBoost
+run_uuid: 65ecbb67e5d6436e8a85e135d8350cae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745772573242
+status: 3
+tags: []
+user_id: ACER

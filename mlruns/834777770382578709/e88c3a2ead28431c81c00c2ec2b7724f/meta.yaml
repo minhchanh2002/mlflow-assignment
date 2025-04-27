@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Thac%20Si/April%20%28MLOp%29/mlruns/834777770382578709/e88c3a2ead28431c81c00c2ec2b7724f/artifacts
+deleted_time: 1745783027631
+end_time: 1745772582449
+entry_point_name: ''
+experiment_id: '834777770382578709'
+lifecycle_stage: deleted
+run_id: e88c3a2ead28431c81c00c2ec2b7724f
+run_name: LightGBM
+run_uuid: e88c3a2ead28431c81c00c2ec2b7724f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745772578139
+status: 3
+tags: []
+user_id: ACER

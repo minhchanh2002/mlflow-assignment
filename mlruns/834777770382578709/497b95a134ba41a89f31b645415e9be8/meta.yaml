@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Thac%20Si/April%20%28MLOp%29/mlruns/834777770382578709/497b95a134ba41a89f31b645415e9be8/artifacts
+deleted_time: 1745783027638
+end_time: 1745772563703
+entry_point_name: ''
+experiment_id: '834777770382578709'
+lifecycle_stage: deleted
+run_id: 497b95a134ba41a89f31b645415e9be8
+run_name: Logistic Regression
+run_uuid: 497b95a134ba41a89f31b645415e9be8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745772554711
+status: 3
+tags: []
+user_id: ACER

@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Thac%20Si/April%20%28MLOp%29/mlruns/834777770382578709/6e4ece1a33c54886a617466397625f5d/artifacts
+deleted_time: 1745783027635
+end_time: 1745772573233
+entry_point_name: ''
+experiment_id: '834777770382578709'
+lifecycle_stage: deleted
+run_id: 6e4ece1a33c54886a617466397625f5d
+run_name: Random Forest
+run_uuid: 6e4ece1a33c54886a617466397625f5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745772568806
+status: 3
+tags: []
+user_id: ACER
